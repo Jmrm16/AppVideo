@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">videosUniguajira</string>
+    <string-array name="genres_array"> <item>Educativo</item> <item>Diversión</item> </string-array>
+</resources>

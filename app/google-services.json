@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101431799129",
+    "project_id": "videosuniguajira-e1612",
+    "storage_bucket": "videosuniguajira-e1612.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101431799129:android:0d6977f0c3ec5e9039f048",
+        "android_client_info": {
+          "package_name": "com.example.videosuniguajira"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrt9__L6ywG7jFb0z4f-JMNtfMPUZfQGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
